@@ -1,7 +1,7 @@
 # Elixir kyu's in Codewars
 
-**TODO: Add description**
-  Resolutions of some Elixir kyu's in Codewars
+
+  **Resolutions of some Elixir kyu's in Codewars
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
